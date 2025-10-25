@@ -1,0 +1,64 @@
+{
+  "section1": {
+    "files": [
+      {
+        "type": "multiatlas",
+        "url": "assets/media/rooms/eco_fair/eco_fair.json",
+        "path": "assets/media/rooms/eco_fair",
+        "key": "eco_fair"
+      },
+      {
+        "url": "assets/media/rooms/eco_fair/eco_fair-anims.json",
+        "type": "animation",
+        "key": "eco_fair-anims"
+      },
+      {
+        "url": "assets/media/rooms/eco_fair/eco_fair-physics.json",
+        "type": "json",
+        "key": "eco_fair-physics"
+      },
+      {
+        "url": [
+          "assets/media/sounds/ecoAlarm.mp3"
+        ],
+        "type": "audio",
+        "key": "ecoAlarm"
+      },
+      {
+        "url": [
+          "assets/media/sounds/ecoAlarmSwitch.mp3"
+        ],
+        "type": "audio",
+        "key": "ecoAlarmSwitch"
+      },
+      {
+        "url": [
+          "assets/media/sounds/ecoGears.mp3"
+        ],
+        "type": "audio",
+        "key": "ecoGears"
+      },
+      {
+        "url": [
+          "assets/media/sounds/ecoLever.mp3"
+        ],
+        "type": "audio",
+        "key": "ecoLever"
+      },
+      {
+        "url": [
+          "assets/media/sounds/ecoWhistle.mp3"
+        ],
+        "type": "audio",
+        "key": "ecoWhistle"
+      }
+    ]
+  },
+  "meta": {
+    "app": "Phaser Editor 2D - Asset Pack Editor",
+    "contentType": "phasereditor2d.pack.core.AssetContentType",
+    "url": "https://phasereditor2d.com",
+    "version": 2,
+    "showAllFilesInBlocks": false
+  }
+}

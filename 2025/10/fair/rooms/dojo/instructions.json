@@ -1,0 +1,62 @@
+{
+    "textures":  [
+                     {
+                         "image":  "instructions-0.webp",
+                         "format":  "RGBA8888",
+                         "size":  {
+                                      "w":  242,
+                                      "h":  322
+                                  },
+                         "scale":  1,
+                         "frames":  [
+                                        {
+                                            "filename":  "instructions-hover",
+                                            "rotated":  false,
+                                            "trimmed":  false,
+                                            "sourceSize":  {
+                                                               "w":  240,
+                                                               "h":  163
+                                                           },
+                                            "spriteSourceSize":  {
+                                                                     "x":  0,
+                                                                     "y":  0,
+                                                                     "w":  240,
+                                                                     "h":  163
+                                                                 },
+                                            "frame":  {
+                                                          "x":  1,
+                                                          "y":  1,
+                                                          "w":  240,
+                                                          "h":  163
+                                                      }
+                                        },
+                                        {
+                                            "filename":  "instructions",
+                                            "rotated":  false,
+                                            "trimmed":  true,
+                                            "sourceSize":  {
+                                                               "w":  240,
+                                                               "h":  163
+                                                           },
+                                            "spriteSourceSize":  {
+                                                                     "x":  4,
+                                                                     "y":  4,
+                                                                     "w":  232,
+                                                                     "h":  155
+                                                                 },
+                                            "frame":  {
+                                                          "x":  1,
+                                                          "y":  166,
+                                                          "w":  232,
+                                                          "h":  155
+                                                      }
+                                        }
+                                    ]
+                     }
+                 ],
+    "meta":  {
+                 "app":  "https://www.codeandweb.com/texturepacker",
+                 "version":  "3.0",
+                 "smartupdate":  "$TexturePacker:SmartUpdate:47a563a3c1f0b5f5c93efa2f55fbc2fa:6c904ba4b6abd642a7e5a916590ceaee:750de146358950d419d30c2837bc3321$"
+             }
+}

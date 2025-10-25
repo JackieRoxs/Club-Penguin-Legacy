@@ -1,0 +1,320 @@
+{
+    "generator_info":  "Shape definitions generated with PhysicsEditor. Visit https://www.codeandweb.com/physicseditor",
+    "block":  {
+                  "type":  "fromPhysicsEditor",
+                  "label":  "block",
+                  "isStatic":  true,
+                  "density":  0.10000000149011612,
+                  "restitution":  0,
+                  "friction":  0.10000000149011612,
+                  "frictionAir":  0.009999999776482582,
+                  "frictionStatic":  0.5,
+                  "collisionFilter":  {
+                                          "group":  0,
+                                          "category":  1,
+                                          "mask":  255
+                                      },
+                  "fixtures":  [
+                                   {
+                                       "label":  "",
+                                       "isSensor":  false,
+                                       "vertices":  [
+                                                        [
+                                                            {
+                                                                "x":  3,
+                                                                "y":  709
+                                                            },
+                                                            {
+                                                                "x":  250,
+                                                                "y":  572
+                                                            },
+                                                            {
+                                                                "x":  0,
+                                                                "y":  0
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "x":  250,
+                                                                "y":  572
+                                                            },
+                                                            {
+                                                                "x":  1296,
+                                                                "y":  574
+                                                            },
+                                                            {
+                                                                "x":  1520,
+                                                                "y":  0
+                                                            },
+                                                            {
+                                                                "x":  0,
+                                                                "y":  0
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "x":  1520,
+                                                                "y":  697
+                                                            },
+                                                            {
+                                                                "x":  1520,
+                                                                "y":  0
+                                                            },
+                                                            {
+                                                                "x":  1296,
+                                                                "y":  574
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "x":  1023,
+                                                                "y":  619
+                                                            },
+                                                            {
+                                                                "x":  1067,
+                                                                "y":  628
+                                                            },
+                                                            {
+                                                                "x":  1152,
+                                                                "y":  623
+                                                            },
+                                                            {
+                                                                "x":  1191,
+                                                                "y":  609
+                                                            },
+                                                            {
+                                                                "x":  1240,
+                                                                "y":  579
+                                                            },
+                                                            {
+                                                                "x":  966,
+                                                                "y":  585
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "x":  966,
+                                                                "y":  585
+                                                            },
+                                                            {
+                                                                "x":  1240,
+                                                                "y":  579
+                                                            },
+                                                            {
+                                                                "x":  1296,
+                                                                "y":  574
+                                                            },
+                                                            {
+                                                                "x":  925,
+                                                                "y":  574
+                                                            }
+                                                        ]
+                                                    ]
+                                   }
+                               ]
+              },
+    "map":  {
+                "type":  "fromPhysicsEditor",
+                "label":  "map",
+                "isStatic":  true,
+                "density":  0.10000000149011612,
+                "restitution":  0,
+                "friction":  0.10000000149011612,
+                "frictionAir":  0.009999999776482582,
+                "frictionStatic":  0.5,
+                "collisionFilter":  {
+                                        "group":  0,
+                                        "category":  1,
+                                        "mask":  255
+                                    },
+                "fixtures":  [
+                                 {
+                                     "label":  "",
+                                     "isSensor":  false,
+                                     "vertices":  [
+                                                      [
+                                                          {
+                                                              "x":  330,
+                                                              "y":  600
+                                                          },
+                                                          {
+                                                              "x":  490,
+                                                              "y":  600
+                                                          },
+                                                          {
+                                                              "x":  490,
+                                                              "y":  470
+                                                          },
+                                                          {
+                                                              "x":  330,
+                                                              "y":  470
+                                                          }
+                                                      ]
+                                                  ]
+                                 }
+                             ]
+            },
+    "sensei":  {
+                   "type":  "fromPhysicsEditor",
+                   "label":  "sensei",
+                   "isStatic":  true,
+                   "density":  0.10000000149011612,
+                   "restitution":  0,
+                   "friction":  0.10000000149011612,
+                   "frictionAir":  0.009999999776482582,
+                   "frictionStatic":  0.5,
+                   "collisionFilter":  {
+                                           "group":  0,
+                                           "category":  1,
+                                           "mask":  255
+                                       },
+                   "fixtures":  [
+                                    {
+                                        "label":  "",
+                                        "isSensor":  false,
+                                        "vertices":  [
+                                                         [
+                                                             {
+                                                                 "x":  1013,
+                                                                 "y":  568
+                                                             },
+                                                             {
+                                                                 "x":  1013.6363525390625,
+                                                                 "y":  629.3181762695312
+                                                             },
+                                                             {
+                                                                 "x":  1022,
+                                                                 "y":  651
+                                                             },
+                                                             {
+                                                                 "x":  1209.0909423828125,
+                                                                 "y":  620.2272644042969
+                                                             },
+                                                             {
+                                                                 "x":  1196,
+                                                                 "y":  565
+                                                             }
+                                                         ],
+                                                         [
+                                                             {
+                                                                 "x":  1235,
+                                                                 "y":  651
+                                                             },
+                                                             {
+                                                                 "x":  1209.0909423828125,
+                                                                 "y":  620.2272644042969
+                                                             },
+                                                             {
+                                                                 "x":  1022,
+                                                                 "y":  651
+                                                             }
+                                                         ]
+                                                     ]
+                                    }
+                                ]
+               },
+    "waddle200":  {
+                      "type":  "fromPhysicsEditor",
+                      "label":  "waddle200",
+                      "isStatic":  true,
+                      "density":  0.10000000149011612,
+                      "restitution":  0,
+                      "friction":  0.10000000149011612,
+                      "frictionAir":  0.009999999776482582,
+                      "frictionStatic":  0.5,
+                      "collisionFilter":  {
+                                              "group":  0,
+                                              "category":  1,
+                                              "mask":  255
+                                          },
+                      "fixtures":  [
+                                       {
+                                           "label":  "",
+                                           "isSensor":  false,
+                                           "circle":  {
+                                                          "x":  617.1875,
+                                                          "y":  700.625,
+                                                          "radius":  32.65742774151437
+                                                      }
+                                       }
+                                   ]
+                  },
+    "waddle201":  {
+                      "type":  "fromPhysicsEditor",
+                      "label":  "waddle201",
+                      "isStatic":  true,
+                      "density":  0.10000000149011612,
+                      "restitution":  0,
+                      "friction":  0.10000000149011612,
+                      "frictionAir":  0.009999999776482582,
+                      "frictionStatic":  0.5,
+                      "collisionFilter":  {
+                                              "group":  0,
+                                              "category":  1,
+                                              "mask":  255
+                                          },
+                      "fixtures":  [
+                                       {
+                                           "label":  "",
+                                           "isSensor":  false,
+                                           "circle":  {
+                                                          "x":  925,
+                                                          "y":  702.1875,
+                                                          "radius":  32.65742774151437
+                                                      }
+                                       }
+                                   ]
+                  },
+    "waddle202":  {
+                      "type":  "fromPhysicsEditor",
+                      "label":  "waddle202",
+                      "isStatic":  true,
+                      "density":  0.10000000149011612,
+                      "restitution":  0,
+                      "friction":  0.10000000149011612,
+                      "frictionAir":  0.009999999776482582,
+                      "frictionStatic":  0.5,
+                      "collisionFilter":  {
+                                              "group":  0,
+                                              "category":  1,
+                                              "mask":  255
+                                          },
+                      "fixtures":  [
+                                       {
+                                           "label":  "",
+                                           "isSensor":  false,
+                                           "circle":  {
+                                                          "x":  357.8125,
+                                                          "y":  808.4375,
+                                                          "radius":  32.65742774151437
+                                                      }
+                                       }
+                                   ]
+                  },
+    "waddle203":  {
+                      "type":  "fromPhysicsEditor",
+                      "label":  "waddle203",
+                      "isStatic":  true,
+                      "density":  0.10000000149011612,
+                      "restitution":  0,
+                      "friction":  0.10000000149011612,
+                      "frictionAir":  0.009999999776482582,
+                      "frictionStatic":  0.5,
+                      "collisionFilter":  {
+                                              "group":  0,
+                                              "category":  1,
+                                              "mask":  255
+                                          },
+                      "fixtures":  [
+                                       {
+                                           "label":  "",
+                                           "isSensor":  false,
+                                           "circle":  {
+                                                          "x":  1179.6875,
+                                                          "y":  806.875,
+                                                          "radius":  32.65742774151437
+                                                      }
+                                       }
+                                   ]
+                  }
+}

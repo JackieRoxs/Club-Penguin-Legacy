@@ -1,0 +1,73 @@
+{
+  "section1": {
+    "files": [
+      {
+        "url": [
+          "assets/media/sounds/lh-acoustic.mp3"
+        ],
+        "type": "audio",
+        "key": "lh-acoustic"
+      },
+      {
+        "url": [
+          "assets/media/sounds/lh-bass.mp3"
+        ],
+        "type": "audio",
+        "key": "lh-bass"
+      },
+      {
+        "url": [
+          "assets/media/sounds/lh-drums.mp3"
+        ],
+        "type": "audio",
+        "key": "lh-drums"
+      },
+      {
+        "url": [
+          "assets/media/sounds/lh-electric.mp3"
+        ],
+        "type": "audio",
+        "key": "lh-electric"
+      },
+      {
+        "url": [
+          "assets/media/sounds/lh-shaker.mp3"
+        ],
+        "type": "audio",
+        "key": "lh-shaker"
+      },
+      {
+        "url": [
+          "assets/media/sounds/lh-trombone.mp3"
+        ],
+        "type": "audio",
+        "key": "lh-trombone"
+      },
+      {
+        "url": [
+          "assets/media/sounds/lh-tuba.mp3"
+        ],
+        "type": "audio",
+        "key": "lh-tuba"
+      },
+      {
+        "type": "multiatlas",
+        "url": "assets/media/rooms/light/light.json",
+        "path": "assets/media/rooms/light",
+        "key": "light"
+      },
+      {
+        "url": "assets/media/rooms/light/light-physics.json",
+        "type": "json",
+        "key": "light-physics"
+      }
+    ]
+  },
+  "meta": {
+    "app": "Phaser Editor 2D - Asset Pack Editor",
+    "contentType": "phasereditor2d.pack.core.AssetContentType",
+    "url": "https://phasereditor2d.com",
+    "version": 2,
+    "showAllFilesInBlocks": false
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "section1": {
+    "files": [
+      {
+        "type": "multiatlas",
+        "url": "assets/media/rooms/dojo/banners.json",
+        "path": "assets/media/rooms/dojo",
+        "key": "banners"
+      },
+      {
+        "type": "multiatlas",
+        "url": "assets/media/interface/game/cjqueue/cjqueue.json",
+        "path": "assets/media/interface/game/cjqueue",
+        "key": "cjqueue"
+      },
+      {
+        "type": "multiatlas",
+        "url": "assets/media/rooms/dojo/dojo.json",
+        "path": "assets/media/rooms/dojo/",
+        "key": "dojo"
+      },
+      {
+        "url": "assets/media/rooms/dojo/dojo-anims.json",
+        "type": "animation",
+        "key": "dojo-anims"
+      },
+      {
+        "url": "assets/media/rooms/dojo/dojo-physics.json",
+        "type": "json",
+        "key": "dojo-physics"
+      },
+      {
+        "type": "multiatlas",
+        "url": "assets/media/rooms/dojo/instructions.json",
+        "path": "assets/media/rooms/dojo",
+        "key": "instructions"
+      },
+      {
+        "url": [
+          "assets/media/sounds/ninja1.mp3"
+        ],
+        "type": "audio",
+        "key": "ninja1"
+      },
+      {
+        "url": [
+          "assets/media/sounds/ninja2.mp3"
+        ],
+        "type": "audio",
+        "key": "ninja2"
+      },
+      {
+        "url": [
+          "assets/media/sounds/sensei_off.mp3"
+        ],
+        "type": "audio",
+        "key": "sensei_off"
+      },
+      {
+        "url": [
+          "assets/media/sounds/sensei_on.mp3"
+        ],
+        "type": "audio",
+        "key": "sensei_on"
+      }
+    ]
+  },
+  "meta": {
+    "app": "Phaser Editor 2D - Asset Pack Editor",
+    "contentType": "phasereditor2d.pack.core.AssetContentType",
+    "url": "https://phasereditor2d.com",
+    "version": 2,
+    "showAllFilesInBlocks": false
+  }
+}

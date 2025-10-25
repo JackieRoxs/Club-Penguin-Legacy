@@ -1,0 +1,30 @@
+{
+  "section1": {
+    "files": [
+      {
+        "type": "multiatlas",
+        "url": "assets/media/rooms/esplanade/esplanade.json",
+        "path": "assets/media/rooms/esplanade/",
+        "key": "esplanade"
+      },
+      {
+        "url": "assets/media/rooms/esplanade/esplanade-physics.json",
+        "type": "json",
+        "key": "esplanade-physics"
+      },
+      {
+        "type": "multiatlas",
+        "url": "assets/media/rooms/esplanade/esplanadedojo.json",
+        "path": "assets/media/rooms/esplanade",
+        "key": "esplanadedojo"
+      }
+    ]
+  },
+  "meta": {
+    "app": "Phaser Editor 2D - Asset Pack Editor",
+    "contentType": "phasereditor2d.pack.core.AssetContentType",
+    "url": "https://phasereditor2d.com",
+    "version": 2,
+    "showAllFilesInBlocks": false
+  }
+}

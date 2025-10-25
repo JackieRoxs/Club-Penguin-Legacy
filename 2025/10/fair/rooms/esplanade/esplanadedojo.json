@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "esplanadedojo.webp",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1323,
+				"h": 260
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fg",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1321,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1321,
+						"h": 258
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1321,
+						"h": 258
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:aae28289c56b9ad80d2cff5ebd2d7a9c:de6c9a28c8fb857ed6051ecaeede019c:fe7f8d7774dce793109e1c295db8c99b$"
+	}
+}

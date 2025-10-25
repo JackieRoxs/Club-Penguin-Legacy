@@ -1,0 +1,193 @@
+{
+    "anims": [
+        {
+            "key": "rock_open",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "forest_fair",
+                    "frame": "rock0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest_fair",
+                    "frame": "rock0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest_fair",
+                    "frame": "rock0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest_fair",
+                    "frame": "rock0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest_fair",
+                    "frame": "rock0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest_fair",
+                    "frame": "rock0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest_fair",
+                    "frame": "rock0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest_fair",
+                    "frame": "rock0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest_fair",
+                    "frame": "rock0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest_fair",
+                    "frame": "rock0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest_fair",
+                    "frame": "rock0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest_fair",
+                    "frame": "rock0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest_fair",
+                    "frame": "rock0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest_fair",
+                    "frame": "rock0014",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "rock_close",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "forest_fair",
+                    "frame": "rock0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest_fair",
+                    "frame": "rock0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest_fair",
+                    "frame": "rock0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest_fair",
+                    "frame": "rock0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest_fair",
+                    "frame": "rock0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest_fair",
+                    "frame": "rock0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest_fair",
+                    "frame": "rock0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest_fair",
+                    "frame": "rock0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest_fair",
+                    "frame": "rock0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest_fair",
+                    "frame": "rock0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest_fair",
+                    "frame": "rock0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest_fair",
+                    "frame": "rock0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest_fair",
+                    "frame": "rock0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "forest_fair",
+                    "frame": "rock0028",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

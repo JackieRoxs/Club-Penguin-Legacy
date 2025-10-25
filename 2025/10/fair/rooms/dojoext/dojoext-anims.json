@@ -1,0 +1,145 @@
+{
+    "anims": [
+        {
+            "key": "gate_open",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "dojoext",
+                    "frame": "gate_0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext",
+                    "frame": "gate_0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext",
+                    "frame": "gate_0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext",
+                    "frame": "gate_0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext",
+                    "frame": "gate_0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext",
+                    "frame": "gate_0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext",
+                    "frame": "gate_0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext",
+                    "frame": "gate_0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext",
+                    "frame": "gate_0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext",
+                    "frame": "gate_0010",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "gate_close",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "dojoext",
+                    "frame": "gate_0098",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext",
+                    "frame": "gate_0099",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext",
+                    "frame": "gate_0100",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext",
+                    "frame": "gate_0101",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext",
+                    "frame": "gate_0102",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext",
+                    "frame": "gate_0103",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext",
+                    "frame": "gate_0104",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext",
+                    "frame": "gate_0105",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext",
+                    "frame": "gate_0106",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "dojoext",
+                    "frame": "gate_0107",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

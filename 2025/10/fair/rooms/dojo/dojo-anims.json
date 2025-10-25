@@ -1,0 +1,193 @@
+{
+    "anims":  [
+                  {
+                      "key":  "sensei_on",
+                      "type":  "frame",
+                      "frames":  [
+                                     {
+                                         "key":  "dojo",
+                                         "frame":  "sensei_0008",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "dojo",
+                                         "frame":  "sensei_0009",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "dojo",
+                                         "frame":  "sensei_0010",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "dojo",
+                                         "frame":  "sensei_0011",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "dojo",
+                                         "frame":  "sensei_0012",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "dojo",
+                                         "frame":  "sensei_0013",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "dojo",
+                                         "frame":  "sensei_0014",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "dojo",
+                                         "frame":  "sensei_0015",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "dojo",
+                                         "frame":  "sensei_0016",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "dojo",
+                                         "frame":  "sensei_0017",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "dojo",
+                                         "frame":  "sensei_0018",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "dojo",
+                                         "frame":  "sensei_0019",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "dojo",
+                                         "frame":  "sensei_0020",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "dojo",
+                                         "frame":  "sensei_0021",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "dojo",
+                                         "frame":  "sensei_0022",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     }
+                                 ],
+                      "frameRate":  24,
+                      "skipMissedFrames":  true
+                  },
+                  {
+                      "key":  "sensei_off",
+                      "type":  "frame",
+                      "frames":  [
+                                     {
+                                         "key":  "dojo",
+                                         "frame":  "sensei_0038",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "dojo",
+                                         "frame":  "sensei_0039",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "dojo",
+                                         "frame":  "sensei_0040",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "dojo",
+                                         "frame":  "sensei_0041",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "dojo",
+                                         "frame":  "sensei_0042",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "dojo",
+                                         "frame":  "sensei_0043",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "dojo",
+                                         "frame":  "sensei_0044",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "dojo",
+                                         "frame":  "sensei_0045",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "dojo",
+                                         "frame":  "sensei_0046",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "dojo",
+                                         "frame":  "sensei_0047",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "dojo",
+                                         "frame":  "sensei_0048",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "dojo",
+                                         "frame":  "sensei_0049",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "dojo",
+                                         "frame":  "sensei_0050",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     }
+                                 ],
+                      "frameRate":  24,
+                      "skipMissedFrames":  true
+                  }
+              ],
+    "globalTimeScale":  1,
+    "meta":  {
+                 "app":  "Phaser Editor 2D v3",
+                 "contentType":  "Phaser v3 Animations"
+             }
+}
