@@ -1,0 +1,29 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/media/rooms/beach_puffle/beach_puffle.json",
+                "path": "assets/media/rooms/beach_puffle",
+                "key": "beach_puffle"
+            },
+            {
+                "url": "assets/media/rooms/beach_puffle/beach_puffle-anims.json",
+                "type": "animation",
+                "key": "beach_puffle-anims"
+            },
+            {
+                "url": "assets/media/rooms/beach_puffle/beach_puffle-physics.json",
+                "type": "json",
+                "key": "beach_puffle-physics"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
