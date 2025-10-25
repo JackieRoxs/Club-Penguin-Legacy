@@ -1,0 +1,159 @@
+{
+    "anims": [
+        {
+            "key": "board1,board2,reset",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "coffee_fair",
+                    "frame": "board0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_fair",
+                    "frame": "board0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_fair",
+                    "frame": "board0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_fair",
+                    "frame": "board0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_fair",
+                    "frame": "board0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_fair",
+                    "frame": "board0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_fair",
+                    "frame": "board0007",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "board2",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "coffee_fair",
+                    "frame": "board0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_fair",
+                    "frame": "board0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_fair",
+                    "frame": "board0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_fair",
+                    "frame": "board0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_fair",
+                    "frame": "board0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_fair",
+                    "frame": "board0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_fair",
+                    "frame": "board0001",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "restart",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "coffee_fair",
+                    "frame": "pinmaker1_0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_fair",
+                    "frame": "pinmaker1_0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_fair",
+                    "frame": "pinmaker1_0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_fair",
+                    "frame": "pinmaker1_0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_fair",
+                    "frame": "pinmaker1_0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_fair",
+                    "frame": "pinmaker1_0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "coffee_fair",
+                    "frame": "pinmaker1_0001",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

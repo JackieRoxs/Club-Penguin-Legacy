@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "cavemine_holiday-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 526,
+				"h": 532
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "tree",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 524,
+						"h": 530
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 524,
+						"h": 530
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 524,
+						"h": 530
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:51320141777ca835a2b92451a722cff6:b5813fe0cc972991d8d8b125be9ceb9b:c003baa17f013f00b3a4fd41f7ed07c0$"
+	}
+}

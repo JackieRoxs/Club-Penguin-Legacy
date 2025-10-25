@@ -1,0 +1,29 @@
+{
+  "section1": {
+    "files": [
+      {
+        "type": "multiatlas",
+        "url": "assets/media/rooms/coffee_fair/coffee_fair.json",
+        "path": "assets/media/rooms/coffee_fair",
+        "key": "coffee_fair"
+      },
+      {
+        "url": "assets/media/rooms/coffee_fair/coffee_fair-anims.json",
+        "type": "animation",
+        "key": "coffee_fair-anims"
+      },
+      {
+        "url": "assets/media/rooms/coffee_fair/coffee_fair-physics.json",
+        "type": "json",
+        "key": "coffee_fair-physics"
+      }
+    ]
+  },
+  "meta": {
+    "app": "Phaser Editor 2D - Asset Pack Editor",
+    "contentType": "phasereditor2d.pack.core.AssetContentType",
+    "url": "https://phasereditor2d.com",
+    "version": 2,
+    "showAllFilesInBlocks": false
+  }
+}

@@ -1,0 +1,2271 @@
+{
+    "anims":  [
+                  {
+                      "key":  "crab",
+                      "type":  "frame",
+                      "frames":  [
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0001",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0002",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0003",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0004",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0005",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0006",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0007",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0008",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0009",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0010",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0011",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0012",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0013",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0014",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0015",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0016",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0017",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0018",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0019",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0020",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0021",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0022",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0023",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0024",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0025",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0026",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0027",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0028",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0029",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0030",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0031",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0032",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0033",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0034",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0035",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0036",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0037",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0038",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0039",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0040",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0041",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0042",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0043",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0044",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0045",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0046",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0047",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0048",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0049",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0050",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0051",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0052",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0053",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0054",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0055",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0056",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0057",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0058",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0059",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0060",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0061",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0062",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0063",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0064",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0065",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0066",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0067",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0068",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0069",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0070",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0071",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0072",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0073",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0074",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0075",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0076",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0077",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0078",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0079",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0080",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0081",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0082",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0083",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0084",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0085",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0086",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0087",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0088",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0089",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0090",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0091",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0092",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0093",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0094",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0095",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0096",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0097",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0098",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0099",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0100",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0101",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0102",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0103",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0104",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0105",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0106",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0107",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0108",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0109",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0110",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0111",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0112",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0113",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0114",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0115",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0116",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0117",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0118",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0119",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0120",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0121",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0122",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0123",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0124",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0125",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0126",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0127",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0128",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0129",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0130",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0131",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0132",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0133",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0134",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0135",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0136",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0137",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0138",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0139",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0140",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0141",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0142",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0143",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0144",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0145",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0146",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0147",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0148",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0149",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0150",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0151",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0152",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0153",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0154",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0155",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0156",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0157",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0158",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0159",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0160",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0161",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0162",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0163",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0164",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0165",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0166",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0167",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0168",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0169",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0170",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0171",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0172",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0173",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0174",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0175",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0176",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0177",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0178",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0179",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0180",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0181",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0182",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0183",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0184",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0185",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0186",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0187",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0188",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0189",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0190",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0191",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0192",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0193",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0194",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0195",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0196",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0197",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0198",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0199",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0200",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0201",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0202",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0203",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0204",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0205",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0206",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0207",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0208",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0209",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0210",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0211",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0212",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0213",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0214",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0215",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0216",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0217",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0218",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0219",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0220",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0221",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0222",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0223",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0224",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0225",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0226",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0227",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0228",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0229",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0230",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0231",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0232",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0233",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "crab/crab0234",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     }
+                                 ],
+                      "frameRate":  24,
+                      "skipMissedFrames":  true,
+                      "repeat":  -1
+                  },
+                  {
+                      "key":  "fish",
+                      "type":  "frame",
+                      "frames":  [
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0001",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0002",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0003",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0004",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0005",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0006",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0007",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0008",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0009",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0010",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0011",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0012",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0013",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0014",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0015",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0016",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0017",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0018",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0019",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0020",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0021",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0022",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0023",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0024",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0025",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0026",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0027",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0028",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0029",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0030",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0031",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0032",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0033",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0034",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0035",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0036",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0037",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0038",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0039",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0040",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0041",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0042",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0043",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0044",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0045",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0046",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0047",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0048",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0049",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0050",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0051",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0052",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0053",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0054",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0055",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0056",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0057",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0058",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0059",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0060",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0061",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0062",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0063",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0064",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0065",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0066",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0067",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0068",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0069",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0070",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0071",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0072",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0073",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0074",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0075",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0076",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0077",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0078",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0079",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0080",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0081",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0082",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0083",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0084",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0085",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0086",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0087",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0088",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0089",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0090",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0091",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0092",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0093",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0094",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0095",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0096",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0097",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0098",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0099",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0100",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0101",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0102",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0103",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0104",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0105",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0106",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0107",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0108",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0109",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0110",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0111",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0112",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0113",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0114",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0115",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0116",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0117",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0118",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0119",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0120",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0121",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0122",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0123",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0124",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0125",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0126",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0127",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0128",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0129",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0130",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0131",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0132",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0133",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0134",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0135",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0136",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0137",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0138",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0139",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "cave",
+                                         "frame":  "fish/fish0140",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     }
+                                 ],
+                      "frameRate":  24,
+                      "skipMissedFrames":  true,
+                      "repeatDelay":  2000
+                  }
+              ],
+    "globalTimeScale":  1,
+    "meta":  {
+                 "app":  "Phaser Editor 2D v3",
+                 "contentType":  "Phaser v3 Animations"
+             }
+}

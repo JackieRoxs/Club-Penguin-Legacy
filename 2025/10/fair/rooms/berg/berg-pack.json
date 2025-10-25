@@ -1,0 +1,28 @@
+{
+  "section1": {
+    "files": [
+      {
+        "type": "multiatlas",
+        "url": "assets/media/rooms/berg_fair/berg_fair.json",
+        "path": "assets/media/rooms/berg_fair/",
+        "key": "berg_fair"
+      },
+      {
+        "url": "assets/media/rooms/berg_fair/berg_fair-anims.json",
+        "type": "animation",
+        "key": "berg_fair-anims"
+      },
+      {
+        "url": "assets/media/rooms/berg_fair/berg_fair-physics.json",
+        "type": "json",
+        "key": "berg_fair-physics"
+      }
+    ]
+  },
+  "meta": {
+    "app": "Phaser Editor 2D - Asset Pack Editor",
+    "contentType": "phasereditor2d.pack.core.AssetContentType",
+    "url": "https://phasereditor2d.com",
+    "version": 2
+  }
+}

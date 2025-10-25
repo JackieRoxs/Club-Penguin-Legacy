@@ -1,0 +1,35 @@
+{
+  "section1": {
+    "files": [
+      {
+        "type": "multiatlas",
+        "url": "assets/media/rooms/cavemine/cavemine.json",
+        "path": "assets/media/rooms/cavemine/",
+        "key": "cavemine"
+      },
+      {
+        "type": "multiatlas",
+        "url": "assets/media/rooms/cavemine/cavemine_holiday.json",
+        "path": "assets/media/rooms/cavemine",
+        "key": "cavemine_holiday"
+      },
+      {
+        "url": "assets/media/rooms/cavemine/cavemine-anims.json",
+        "type": "animation",
+        "key": "cavemine-anims"
+      },
+      {
+        "url": "assets/media/rooms/cavemine/cavemine-physics.json",
+        "type": "json",
+        "key": "cavemine-physics"
+      }
+    ]
+  },
+  "meta": {
+    "app": "Phaser Editor 2D - Asset Pack Editor",
+    "contentType": "phasereditor2d.pack.core.AssetContentType",
+    "url": "https://phasereditor2d.com",
+    "version": 2,
+    "showAllFilesInBlocks": false
+  }
+}

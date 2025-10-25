@@ -1,0 +1,1934 @@
+{
+    "anims": [
+        {
+            "key": "cavemine-box_dimming",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cavemine",
+                    "frame": "box_dimming0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_dimming0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_dimming0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_dimming0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_dimming0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_dimming0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_dimming0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_dimming0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_dimming0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_dimming0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_dimming0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_dimming0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_dimming0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_dimming0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_dimming0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_dimming0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_dimming0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_dimming0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_dimming0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_dimming0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_dimming0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_dimming0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_dimming0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_dimming0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_dimming0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_dimming0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_dimming0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_dimming0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_dimming0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_dimming0030",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "cavemine-box_off",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cavemine",
+                    "frame": "box_off0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_off0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_off0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_off0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_off0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_off0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_off0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_off0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_off0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_off0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_off0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_off0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_off0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_off0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_off0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_off0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_off0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_off0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_off0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_off0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_off0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_off0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_off0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_off0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_off0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_off0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_off0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_off0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_off0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "box_off0030",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "cavemine-bulb_dimming",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_dimming0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_dimming0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_dimming0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_dimming0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_dimming0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_dimming0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_dimming0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_dimming0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_dimming0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_dimming0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_dimming0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_dimming0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_dimming0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_dimming0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_dimming0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_dimming0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_dimming0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_dimming0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_dimming0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_dimming0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_dimming0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_dimming0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_dimming0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_dimming0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_dimming0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_dimming0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_dimming0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_dimming0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_dimming0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_dimming0030",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "cavemine-bulb_off",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_off0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_off0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_off0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "bulb_off0004",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 6,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "cavemine-coffee",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0030",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0031",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0032",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0033",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0034",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0035",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0036",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0037",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0038",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0039",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0040",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0041",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0042",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0043",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0044",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0045",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "coffee0046",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "cavemine-funnel",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cavemine",
+                    "frame": "funnel0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "funnel0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "funnel0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "funnel0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "funnel0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "funnel0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "funnel0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "funnel0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "funnel0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "funnel0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "funnel0011",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "cavemine-lights_dimming",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cavemine",
+                    "frame": "lights_dimming0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "lights_dimming0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "lights_dimming0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "lights_dimming0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "lights_dimming0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "lights_dimming0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "lights_dimming0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "lights_dimming0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "lights_dimming0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "lights_dimming0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "lights_dimming0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "lights_dimming0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "lights_dimming0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "lights_dimming0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "lights_dimming0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "lights_dimming0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "lights_dimming0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "lights_dimming0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "lights_dimming0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "lights_dimming0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "lights_dimming0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "lights_dimming0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "lights_dimming0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "lights_dimming0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "lights_dimming0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "lights_dimming0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "lights_dimming0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "lights_dimming0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "lights_dimming0029",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "cavemine-littlebulb_dimming",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cavemine",
+                    "frame": "littlebulb_dimming0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "littlebulb_dimming0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "littlebulb_dimming0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "littlebulb_dimming0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "littlebulb_dimming0005",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 6,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "cavemine-littlebulb_off",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cavemine",
+                    "frame": "littlebulb_off0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "littlebulb_off0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "littlebulb_off0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "littlebulb_off0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "littlebulb_off0005",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 6,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "cavemine-rocket",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cavemine",
+                    "frame": "rocket0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "rocket0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "rocket0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "rocket0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "rocket0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "rocket0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "rocket0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "rocket0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "rocket0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "rocket0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "rocket0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "rocket0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "rocket0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "rocket0014",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "cavemine-stream",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cavemine",
+                    "frame": "stream0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "stream0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "stream0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "stream0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "stream0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "stream0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "stream0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "stream0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "stream0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "stream0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "stream0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "stream0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "stream0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "stream0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "stream0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "stream0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "stream0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "stream0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "stream0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "stream0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "stream0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "stream0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "stream0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "stream0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "stream0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "stream0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "stream0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "stream0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "stream0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "stream0030",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "cavemine-waterfall_bottom",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_bottom0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_bottom0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_bottom0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_bottom0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_bottom0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_bottom0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_bottom0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_bottom0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_bottom0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_bottom0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_bottom0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_bottom0012",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "cavemine-waterfall_middle",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_middle0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_middle0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_middle0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_middle0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_middle0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_middle0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_middle0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_middle0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_middle0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_middle0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_middle0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_middle0012",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "cavemine-waterfall_top",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_top0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_top0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_top0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_top0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_top0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_top0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_top0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_top0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_top0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_top0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_top0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall_top0012",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "cavemine-waterfall",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall0001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall0002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall0003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall0004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall0005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall0006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall0007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall0008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall0009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall0010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall0011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall0012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall0013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall0014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall0015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall0016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall0017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall0018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall0019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall0020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall0021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall0022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall0023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall0024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall0025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall0026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall0027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall0028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall0029",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "cavemine",
+                    "frame": "waterfall0030",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

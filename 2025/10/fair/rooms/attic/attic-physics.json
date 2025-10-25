@@ -1,0 +1,294 @@
+{
+    "generator_info":  "Shape definitions generated with PhysicsEditor. Visit https://www.codeandweb.com/physicseditor",
+    "block":  {
+                  "type":  "fromPhysicsEditor",
+                  "label":  "block",
+                  "isStatic":  true,
+                  "density":  0.10000000149011612,
+                  "restitution":  0,
+                  "friction":  0.10000000149011612,
+                  "frictionAir":  0.009999999776482582,
+                  "frictionStatic":  0.5,
+                  "collisionFilter":  {
+                                          "group":  0,
+                                          "category":  1,
+                                          "mask":  255
+                                      },
+                  "fixtures":  [
+                                   {
+                                       "label":  "",
+                                       "isSensor":  false,
+                                       "vertices":  [
+                                                        [
+                                                            {
+                                                                "x":  304,
+                                                                "y":  960
+                                                            },
+                                                            {
+                                                                "x":  148,
+                                                                "y":  760
+                                                            },
+                                                            {
+                                                                "x":  0,
+                                                                "y":  960
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "x":  1258,
+                                                                "y":  724
+                                                            },
+                                                            {
+                                                                "x":  1374,
+                                                                "y":  806
+                                                            },
+                                                            {
+                                                                "x":  1520,
+                                                                "y":  766
+                                                            },
+                                                            {
+                                                                "x":  1301,
+                                                                "y":  627
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "x":  1520,
+                                                                "y":  766
+                                                            },
+                                                            {
+                                                                "x":  1520,
+                                                                "y":  0
+                                                            },
+                                                            {
+                                                                "x":  1301,
+                                                                "y":  627
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "x":  1520,
+                                                                "y":  0
+                                                            },
+                                                            {
+                                                                "x":  0,
+                                                                "y":  0
+                                                            },
+                                                            {
+                                                                "x":  1092,
+                                                                "y":  543
+                                                            },
+                                                            {
+                                                                "x":  1301,
+                                                                "y":  627
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "x":  0,
+                                                                "y":  960
+                                                            },
+                                                            {
+                                                                "x":  148,
+                                                                "y":  760
+                                                            },
+                                                            {
+                                                                "x":  151,
+                                                                "y":  694
+                                                            },
+                                                            {
+                                                                "x":  0,
+                                                                "y":  0
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "x":  290,
+                                                                "y":  646
+                                                            },
+                                                            {
+                                                                "x":  282,
+                                                                "y":  600
+                                                            },
+                                                            {
+                                                                "x":  273,
+                                                                "y":  589
+                                                            },
+                                                            {
+                                                                "x":  203,
+                                                                "y":  567
+                                                            },
+                                                            {
+                                                                "x":  203,
+                                                                "y":  659
+                                                            },
+                                                            {
+                                                                "x":  273,
+                                                                "y":  687
+                                                            },
+                                                            {
+                                                                "x":  281,
+                                                                "y":  677
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "x":  203,
+                                                                "y":  659
+                                                            },
+                                                            {
+                                                                "x":  203,
+                                                                "y":  567
+                                                            },
+                                                            {
+                                                                "x":  0,
+                                                                "y":  0
+                                                            },
+                                                            {
+                                                                "x":  151,
+                                                                "y":  694
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "x":  637,
+                                                                "y":  542
+                                                            },
+                                                            {
+                                                                "x":  1092,
+                                                                "y":  543
+                                                            },
+                                                            {
+                                                                "x":  606,
+                                                                "y":  481
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "x":  203,
+                                                                "y":  567
+                                                            },
+                                                            {
+                                                                "x":  434,
+                                                                "y":  481
+                                                            },
+                                                            {
+                                                                "x":  0,
+                                                                "y":  0
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "x":  434,
+                                                                "y":  481
+                                                            },
+                                                            {
+                                                                "x":  606,
+                                                                "y":  481
+                                                            },
+                                                            {
+                                                                "x":  0,
+                                                                "y":  0
+                                                            }
+                                                        ],
+                                                        [
+                                                            {
+                                                                "x":  606,
+                                                                "y":  481
+                                                            },
+                                                            {
+                                                                "x":  1092,
+                                                                "y":  543
+                                                            },
+                                                            {
+                                                                "x":  0,
+                                                                "y":  0
+                                                            }
+                                                        ]
+                                                    ]
+                                   }
+                               ]
+              },
+    "lodge":  {
+                  "type":  "fromPhysicsEditor",
+                  "label":  "lodge",
+                  "isStatic":  true,
+                  "density":  0.10000000149011612,
+                  "restitution":  0,
+                  "friction":  0.10000000149011612,
+                  "frictionAir":  0.009999999776482582,
+                  "frictionStatic":  0.5,
+                  "collisionFilter":  {
+                                          "group":  0,
+                                          "category":  1,
+                                          "mask":  255
+                                      },
+                  "fixtures":  [
+                                   {
+                                       "label":  "",
+                                       "isSensor":  false,
+                                       "vertices":  [
+                                                        [
+                                                            {
+                                                                "x":  1050,
+                                                                "y":  576
+                                                            },
+                                                            {
+                                                                "x":  1050,
+                                                                "y":  700
+                                                            },
+                                                            {
+                                                                "x":  1286,
+                                                                "y":  681
+                                                            },
+                                                            {
+                                                                "x":  1187,
+                                                                "y":  576
+                                                            }
+                                                        ]
+                                                    ]
+                                   }
+                               ]
+              },
+    "pin":  {
+                "type":  "fromPhysicsEditor",
+                "label":  "pin",
+                "isStatic":  true,
+                "density":  0.10000000149011612,
+                "restitution":  0,
+                "friction":  0.10000000149011612,
+                "frictionAir":  0.009999999776482582,
+                "frictionStatic":  0.5,
+                "collisionFilter":  {
+                                        "group":  0,
+                                        "category":  1,
+                                        "mask":  255
+                                    },
+                "fixtures":  [
+                                 {
+                                     "label":  "",
+                                     "isSensor":  false,
+                                     "vertices":  [
+                                                      [
+                                                          {
+                                                              "x":  1479,
+                                                              "y":  941
+                                                          },
+                                                          {
+                                                              "x":  1466,
+                                                              "y":  833
+                                                          },
+                                                          {
+                                                              "x":  1335,
+                                                              "y":  842
+                                                          },
+                                                          {
+                                                              "x":  1330,
+                                                              "y":  934
+                                                          }
+                                                      ]
+                                                  ]
+                                 }
+                             ]
+            }
+}

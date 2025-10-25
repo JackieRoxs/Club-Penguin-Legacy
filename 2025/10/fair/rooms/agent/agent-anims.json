@@ -1,0 +1,1310 @@
+{
+    "anims":  [
+                  {
+                      "key":  "door_open",
+                      "type":  "frame",
+                      "frames":  [
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0001",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0002",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0003",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0004",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0005",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0006",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0007",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0008",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0009",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0010",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0011",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0012",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0013",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0014",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0015",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0016",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0017",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0018",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0019",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0020",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0021",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0022",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0023",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0024",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0025",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0026",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0027",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0028",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0029",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0030",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0031",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0032",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0033",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0034",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0035",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0036",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0037",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0038",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0039",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0040",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0041",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0042",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0043",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0044",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0045",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0046",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0047",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0048",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0049",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0050",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0051",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0052",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0053",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0054",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0055",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0056",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0057",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0058",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0059",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0060",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0061",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0062",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0063",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0064",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0065",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0066",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0067",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0068",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0069",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0070",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0071",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0072",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0073",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "door_0074",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     }
+                                 ],
+                      "frameRate":  24,
+                      "skipMissedFrames":  true
+                  },
+                  {
+                      "key":  "floor",
+                      "type":  "frame",
+                      "frames":  [
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0001",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0002",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0003",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0004",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0005",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0006",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0007",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0008",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0009",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0010",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0011",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0012",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0013",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0014",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0015",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0016",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0017",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0018",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0019",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0020",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0021",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0022",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0023",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0024",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0025",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0026",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0027",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0028",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0029",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0030",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0031",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0032",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0033",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0034",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0035",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0036",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0037",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0038",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0039",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0040",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0041",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0042",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0043",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0044",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0045",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0046",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0047",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0048",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0049",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0050",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0051",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0052",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0053",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0054",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0055",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0056",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0057",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0058",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0059",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0060",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0061",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0062",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0063",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0064",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0065",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0066",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0067",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0068",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0069",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0070",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0071",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0072",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0073",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0074",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0075",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0076",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0077",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0078",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0079",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0080",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0081",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0082",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0083",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0084",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0085",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0086",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0087",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0088",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0089",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0090",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0091",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0092",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0093",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0094",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0095",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0096",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0097",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0098",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0099",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0100",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0101",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0102",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0103",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0104",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0105",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0106",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0107",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0108",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0109",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0110",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0111",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0112",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0113",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0114",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0115",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0116",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0117",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0118",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0119",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0120",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0121",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0122",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0123",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0124",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0125",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0126",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0127",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0128",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0129",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0130",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0131",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0132",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0133",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0134",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0135",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0136",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0137",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0138",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0139",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     },
+                                     {
+                                         "key":  "agent",
+                                         "frame":  "dancefloor_0140",
+                                         "duration":  0,
+                                         "keyframe":  false
+                                     }
+                                 ],
+                      "frameRate":  24,
+                      "skipMissedFrames":  true,
+                      "repeat":  -1
+                  }
+              ],
+    "globalTimeScale":  1,
+    "meta":  {
+                 "app":  "Phaser Editor 2D v3",
+                 "contentType":  "Phaser v3 Animations"
+             }
+}
